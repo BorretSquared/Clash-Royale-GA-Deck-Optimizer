@@ -1,0 +1,6 @@
+- 2v2 support
+- counter deck generation
+- trophy gate integration for nonexistant cards above your trophy range
+- compare removal of trophy difference metric to current results
+- assume all heros flag
+- required consistency flag 
